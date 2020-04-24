@@ -1,0 +1,16 @@
+{
+    "name": "color-mode",
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "nuxt": "^2.12.2"
+    },
+    "devDependencies": {
+        "@nuxtjs/color-mode": "^1.0.0",
+        "@nuxtjs/svg": "^0.1.11"
+    }
+}
